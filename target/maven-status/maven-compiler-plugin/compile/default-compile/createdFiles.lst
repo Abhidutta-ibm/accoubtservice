@@ -1,0 +1,10 @@
+com\ibm\model\Account.class
+com\ibm\service\impl\AccountServiceImpl.class
+com\ibm\AccountMicroserviceApplication.class
+com\ibm\service\AccountService.class
+com\ibm\repo\AccountRepo.class
+com\ibm\dto\UserLogin.class
+com\ibm\dto\AccountDto.class
+com\ibm\config\SwaggerConfig.class
+com\ibm\controller\AccountController.class
+com\ibm\model\FollowUnfollowDetails.class
